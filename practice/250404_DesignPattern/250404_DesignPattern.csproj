@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E80E3D49-9D90-44FC-AF93-50CFA0067FE5}</ProjectGuid>
+    <ProjectGuid>{70B7853B-802D-47F2-BB22-2A058F38FF5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_250401_TextRPG</RootNamespace>
-    <AssemblyName>250401_TextRPG</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>_250404_DesignPattern</RootNamespace>
+    <AssemblyName>250404_DesignPattern</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>

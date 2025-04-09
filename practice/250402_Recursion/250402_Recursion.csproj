@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E80E3D49-9D90-44FC-AF93-50CFA0067FE5}</ProjectGuid>
+    <ProjectGuid>{481483DE-AAC1-4C37-AC6C-496B085CC53D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_250401_TextRPG</RootNamespace>
-    <AssemblyName>250401_TextRPG</AssemblyName>
+    <RootNamespace>_250402_Recursion</RootNamespace>
+    <AssemblyName>250402_Recursion</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

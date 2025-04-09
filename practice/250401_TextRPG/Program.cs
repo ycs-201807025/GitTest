@@ -10,6 +10,7 @@ namespace _250401_TextRPG
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

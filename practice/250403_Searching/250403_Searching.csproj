@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E80E3D49-9D90-44FC-AF93-50CFA0067FE5}</ProjectGuid>
+    <ProjectGuid>{3020B87C-5668-4E15-B607-9DE6BEFC22AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_250401_TextRPG</RootNamespace>
-    <AssemblyName>250401_TextRPG</AssemblyName>
+    <RootNamespace>_250403_Searching</RootNamespace>
+    <AssemblyName>250403_Searching</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
